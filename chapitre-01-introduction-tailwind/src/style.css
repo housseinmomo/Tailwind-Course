@@ -1,0 +1,5 @@
+/* Contient l'ensemble des classes de tailwind */
+/* La priorite est dans l'ordre decroissante */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
